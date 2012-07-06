@@ -1,0 +1,7 @@
+name: Rules Screen
+version: 1.0
+author: coldandtired
+main: me.coldandtired.rules_screen.Main
+description: Force players to agree to terms before being allowed to play.
+website: http://dev.bukkit.org/server-mods/rules-screen/
+depend: [Spout]
